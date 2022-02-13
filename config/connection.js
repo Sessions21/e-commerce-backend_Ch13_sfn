@@ -10,6 +10,7 @@ const sequelize = process.env.ecommerce_db
       dialectOptions: {
         decimalNumbers: true,
       },
+      Port: 3301
     });
 
 module.exports = sequelize;
