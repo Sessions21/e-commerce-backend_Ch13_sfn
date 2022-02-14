@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
       }
   })
   .then(allCategoryData => {
-    if(!allcatergoryData) {
+    if(!allCategoryData) {
       res.status(400).json({message: 'No categories found'});
       return;
     }
