@@ -48,7 +48,7 @@ This is a build out e-commerse backend database to organize and access retail pr
  ---------------------------------
 ### Questions
 * Github Repo: https://github.com/Sessions21/e-commerce-backend_Ch13_sfn
-* Walkthrough Video Link:
+* Walkthrough Video Link:https://www.awesomescreenshot.com/video/7415448?key=5a023f682cfd5ddaa402679993e21548
 * Contact me with questions: s21nichols@hotmail.com
 
 ### Example Code and Insomnia Query Output:
